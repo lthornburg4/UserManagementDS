@@ -26,6 +26,8 @@ How to use program
 -----------------
 User will start program and make choice from menu provided to either add employees, view list, remove employee from list, view updated list, or exit program.  The user will follow prompts on screen for how to enter information and what information should be added.  Unfortunately, I was not able to get the menu to continue to appear so after each menu choice you will have to run the program again.  Future iteration of program will have this known issue fixed.
 
+Video of screen capture with explanation is located here: https://screencast-o-matic.com/watch/c0hf2uVz7jt
+
 Time/Change Logs
 ----------------
 I did intermittent work on the program throughout the end of the semester.  Most of that was research to determine how to set up the program.  In the last two weeks when I have really focused on the project I have worked about 25 hours/week on the project.
