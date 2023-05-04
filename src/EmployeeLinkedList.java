@@ -2,6 +2,7 @@
 //Class: Data Strucutres
 //EMail: lthornburg1@dmacc.edu
 //Date: 5/3/2023
+//Final Project Assignment
 
 import java.util.*;
 
@@ -147,6 +148,8 @@ public class EmployeeLinkedList {
             		 empNumber = Integer.parseInt(eNumber);			//casting string from user input to int variable
             	    } catch (Exception e) {
             	      System.out.println("You didn't enter a number.");
+            	      System.out.println("Enter Employee Number: ");
+            	      eNumber = userInput.nextLine();
             	    }
             	 empNumber = Integer.parseInt(eNumber);			//casting string from user input to int variable
             	 
